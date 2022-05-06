@@ -1,2 +1,3 @@
-# code_platforms
-code_platforms
+# Code Platform
+
+- Codewars
